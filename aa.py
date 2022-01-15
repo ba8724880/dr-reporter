@@ -39,16 +39,6 @@ print """
 """    
 time.sleep(0.5)
 user = raw_input('[+] ENTER USER ID FOR UNLIMITED REPORTS 😈💉 : ')
-time.sleep(0.8)
-try:
-    wordlist = open(wrdlstFileName, 'r')
-except FileNotFoundError:
-    print ('\n[!] File Not Found!')
-    exit()
-
-time.sleep(0.8)
-print '\n\nCracking '+user+' Now...'
-
 time.sleep(0.1)
 print '\033[1;47m\033[1;31m    1 TO 100 REPORTS IN PROGRESS PLEASE WAIT    \033[1;0m   '
 for password in wordlist:
