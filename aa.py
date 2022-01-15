@@ -81,11 +81,11 @@ time.sleep(0.9)
 print '\033[1;32m[+]20 Reports Send Successfully '
 #fuck you copy waly
 time.sleep(3)
-print '\033[1;31m[+]\033[1;41m\033[1;33m20 Reports Has Been Send Successfully 100 Reports in Progress\033[1;0m   '  
-
+print '\033[1;32m[+]\033[1;41m\033[1;33m20 Reports Has Been Send Successfully               \033[1;0m   '  
 time.sleep(4)
-print '\033[1;31m[+]\033[1;31m Please Wait '  
-
+print '\033[1;32m[+]\033[1;41m\033[1;31m  500 Reports in Progress                           \033[1;0m'  
+time.sleep(4)
+print '\033[1;32m[+]\033[1;41m\033[1;31m        Please Wait                                 \033[1;0m'  
 time.sleep(15)
-print '\033[1;31m[+]\033[1;41m\033[1;33m120 Reports Has Been Send Successfully             \033[1;0m '
+print '\033[1;32m[+]\033[1;41m\033[1;33m500 Reports Has Been Send Successfully              \033[1;0m '
 exit()
