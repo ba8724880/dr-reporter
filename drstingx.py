@@ -1,6 +1,5 @@
  
- ​#!/usr/bin/python 
- ​# -*- coding: utf-8 -*- 
+ ​#!/usr/bin/python
  ​#Name:Babar Ali 
  ​#github (https://github.com/hearthackerBabar) 
  ​#hearthacker 
