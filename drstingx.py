@@ -1,9 +1,3 @@
- 
- ​#!/usr/bin/python
- ​#Name:Babar Ali 
- ​#github (https://github.com/hearthackerBabar) 
- ​#hearthacker 
-  
  ​import​ ​time 
  ​import​ ​os 
   
