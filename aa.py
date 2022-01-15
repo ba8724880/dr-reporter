@@ -29,6 +29,7 @@ print """
 \033[1;34m / _, _/  __/ /_/ / /_/ / /  / /_/  __/ /
 \033[1;34m/_/ |_|\___/ .___/\____/_/   \__/\___/_/
 \033[1;34m          /_/
+
 \033[1;91m           [☠️\033[1;91mAuthor Name: Babar Ali 😈     ☠️\033[1;91m]
 \033[1;91m           [☠️\033[1;91mPhone Numbr: +923000223253 📳 ☠️\033[1;91m]
 \033[1;91m           [☠️\033[1;91mYutube Chnl: Pak Anonymous 💉 ☠️\033[1;91m]
@@ -37,57 +38,8 @@ print """
 \033[1;43m\033[1;37m         😈 PUT ACCOUNT USER ID FOR REPORT 😈           \033[1;0m
 """    
 time.sleep(0.5)
-user = raw_input('[+] ENTER USER ID 😈💉 : ')
+user = raw_input('[+] ENTER USER ID FOR UNLIMITED REPORTS 😈💉 : ')
 time.sleep(0.8)
-##### LICENSE #####
-#=================#
-def lisensi():
-	os.system('clear')
-	login()
-####login#########
-def login():
-	os.system('clear')
-	print logo
-	print "\033[1;91m[1]\x1b[1;95mLogin With Facebook Account  "
-        time.sleep(0.05)
-        print "\033[1;91m[2]\x1b[1;95mLogin  With Token"
-        time.sleep(0.05)
-        print "\033[1;91m[3]\x1b[1;95mDownload Token App"
-        time.sleep(0.05)
-	print "\033[1;91m[0]\033[1;94mExit             "
-	pilih_login()
-
-def pilih_login():
-	peak = raw_input("\n\033[1;96mChoose an Option: \033[1;95m")
-	if peak =="":
-		print "\x1b[1;91mFill in correctly"
-		pilih_login()
-	elif peak =="1":
-		login1()
-        elif peak =="2":
-	        token()
-        elif peak =="3":
-	        os.system('xdg-open https://m.apkpure.com/get-access-token/com.proit.thaison.getaccesstokenfacebook/download/1-APK?from=versions%2Fversion')
-	        login()
-	elif peak =="0":
-		keluar()
-        else:
-		print"\033[1;91m[!] Wrong input"
-		keluar()
-
-def login1():
-	os.system('clear')
-	try:
-		toket = open('login.txt','r')
-		menu() 
-	except (KeyError,IOError):
-		os.system('clear')
-                time.sleep(0.05)
-		print logo
-		jalan(' \033[1;91mWarning:\033[1;92m Do Not Use Your Personal Account' )
-		jalan(' \033[1;91mWarning:\033[1;92m Use a New Account To Login' )
-		jalan(' \033[1;91mWarning: \033[1;92mTermux All Version Work ' )
-		jalan(' \033[1;91mWarning: \033[1;92mYour Internet Should Be Fast ' )
 try:
     wordlist = open(wrdlstFileName, 'r')
 except FileNotFoundError:
@@ -97,8 +49,8 @@ except FileNotFoundError:
 time.sleep(0.8)
 print '\n\nCracking '+user+' Now...'
 
-time.sleep(1)
-print '\033[1;47m\033[1;31m               Cracking Has Been Started                   \033[1;0m   '
+time.sleep(0.1)
+print '\033[1;47m\033[1;31m    1 TO 100 REPORTS IN PROGRESS PLEASE WAIT    \033[1;0m   '
 for password in wordlist:
     if password == '' or password == ' ':
         pass
