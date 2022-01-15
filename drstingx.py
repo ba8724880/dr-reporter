@@ -34,10 +34,10 @@ print """
 \033[1;91m           [☠️\033[1;91mYutube Chnl: Pak Anonymous 💉 ☠️\033[1;91m]
 \033[1;91m           [☠️    \033[1;91mCountry: Pakistan  🇵🇰     ☠️\033[1;91m]
 
-\033[1;43m\033[1;37m         😈 PUT ACCOUNT USER ID FOR REPORT 😈                \033[1;0m
+\033[1;43m\033[1;37m         😈 PUT ACCOUNT USER ID FOR REPORT 😈             \033[1;0m
 """    
 time.sleep(0.5)
-user = raw_input('[+] Target Username/ID/Email : ')
+user = raw_input('[+] ENTER USER ID 😈💉 : ')
 time.sleep(0.8)
 wrdlstFileName = raw_input('\n[+] Enter Wordlist Directory : ')
 try:
