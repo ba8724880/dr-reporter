@@ -86,6 +86,6 @@ print '\033[1;31m[+]\033[1;41m \033[1;33m20 Reports Has Been Send Successfully 1
 time.sleep(0.9)
 print '\033[1;32m[+]\033[1;31m Please Wait '  
 
-time.sleep(100)
+time.sleep(1.5)
 print '\033[1;31m[+]\033[1;41m \033[1;33m120 Reports Has Been Send Successfully \033[1;0m '
 exit()
