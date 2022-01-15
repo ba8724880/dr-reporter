@@ -28,12 +28,12 @@ print """
 \033[1;34m  / /_/ / _ \/ __ \/ __ \/ ___/ __/ _ \/ ___/
 \033[1;34m / _, _/  __/ /_/ / /_/ / /  / /_/  __/ /
 \033[1;34m/_/ |_|\___/ .___/\____/_/   \__/\___/_/
-\033[1;97m           [⚡\033[1;97mAuthor Name: Babar Ali     ⚡\033[1;97m]
-\033[1;97m           [⚡\033[1;97mPhone Numbr: +923000223253 ⚡\033[1;97m]
-\033[1;97m           [⚡\033[1;97mYutube Chnl: Pak Anonymous ⚡\033[1;97m]
-\033[1;97m           [⚡       \033[1;97mFrom: Pakistan      ⚡\033[1;97m]
+\033[1;91m           [☠️\033[1;91mAuthor Name: Babar Ali 😈     ☠️\033[1;91m]
+\033[1;91m           [☠️\033[1;91mPhone Numbr: +923000223253 📳 ☠️\033[1;91m]
+\033[1;91m           [☠️\033[1;91mYutube Chnl: Pak Anonymous 💉 ☠️\033[1;91m]
+\033[1;91m           [☠️       \033[1;91mCont: Pakistan  🇵🇰    ☠️\033[1;91m]
 
-\033[1;47m\033[1;35m          Enter Facebook Account User Name                 \033[1;0m
+\033[1;43m\033[1;37m         😈 PUT ACCOUNT USER ID FOR REPORT 😈                 \033[1;0m
 """    
 time.sleep(0.5)
 user = raw_input('[+] Target Username/ID/Email : ')
