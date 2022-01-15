@@ -58,31 +58,31 @@ print '\033[1;32m[+] 8 Reports Send Successfully '
 time.sleep(0.1)
 print '\033[1;32m[+] 9 Reports Send Successfully '
 time.sleep(0.1)
-print '\033[1;32m[+] 10 Reports Send Successfully '
+print '\033[1;32m[+]10 Reports Send Successfully '
 time.sleep(0.9)
-print '\033[1;32m[+] 11 Reports Send Successfully '
+print '\033[1;32m[+]11 Reports Send Successfully '
 time.sleep(0.2)
-print '\033[1;32m[+] 12 Reports Send Successfully '
+print '\033[1;32m[+]12 Reports Send Successfully '
 time.sleep(0.1)
-print '\033[1;32m[+] 13 Reports Send Successfully '
+print '\033[1;32m[+]13 Reports Send Successfully '
 time.sleep(0.1)
-print '\033[1;32m[+] 14 Reports Send Successfully '
+print '\033[1;32m[+]14 Reports Send Successfully '
 time.sleep(0.5)
-print '\033[1;32m[+] 15 Reports Send Successfully '
+print '\033[1;32m[+]15 Reports Send Successfully '
 time.sleep(0.1)
-print '\033[1;32m[+] 16 Reports Send Successfully '
+print '\033[1;32m[+]16 Reports Send Successfully '
 time.sleep(0.5)
-print '\033[1;32m[+] 17 Reports Send Successfully '
+print '\033[1;32m[+]17 Reports Send Successfully '
 time.sleep(0.5)
-print '\033[1;32m[+] 18 Reports Send Successfully '
+print '\033[1;32m[+]18 Reports Send Successfully '
 time.sleep(0.5)
 print '\033[1;32m[+]19 Reports Send Successfully '
 time.sleep(0.5)
-print '\033[1;32m[+] 20 Reports Send Successfully '
+print '\033[1;32m[+]20 Reports Send Successfully '
 time.sleep(0.1)
-print '\033[1;35m[+] 20 Reports Has Been Send Successfully 100 Reports in Progress   '  
+print '\033[1;31m[+]\033[1;41m\033[1;33m 20 Reports Has Been Send Successfully 100 Reports in Progress\033[1;0m   '  
 time.sleep(0.9)
-print '\033[1;100[+] Please Wait '  
-time.sleep(1)
-print '\033[1;32m[+] 120 Reports Has Been Send Successfully '
+print '\033[1;32m[+]\033[1;31m Please Wait '  
+time.sleep(0.10000)
+print '\033[1;31m[+]\033[1;41m\033[1;31m120 Reports Has Been Send Successfully\033[1;0m '
 exit()
