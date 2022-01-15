@@ -40,49 +40,49 @@ print """
 time.sleep(0.5)
 user = raw_input('[+] ENTER USER ID FOR UNLIMITED REPORTS 😈💉 : ')
 time.sleep(0.5)
-print '\033[1;32m 1 Report  Send Successfully '
+print '\033[1;32m[+] 1 Report  Send Successfully '
 time.sleep(0.6)
-print '\033[1;32m 2 Reports Send Successfully '
+print '\033[1;32m[+] 2 Reports Send Successfully '
 time.sleep(0.7)
-print '\033[1;32m 3 Reports Send Successfully '
+print '\033[1;32m[+] 3 Reports Send Successfully '
 time.sleep(0.8)
-print '\033[1;32m 4 Reports Send Successfully '
+print '\033[1;32m[+] 4 Reports Send Successfully '
 time.sleep(0.5)
-print '\033[1;32m 5 Reports Send Successfully '
+print '\033[1;32m[+] 5 Reports Send Successfully '
 time.sleep(0.2)
-print '\033[1;32m 6 Reports Send Successfully '
+print '\033[1;32m[+] 6 Reports Send Successfully '
 time.sleep(0.1)
-print '\033[1;32m 7 Reports Send Successfully '
+print '\033[1;32m[+] 7 Reports Send Successfully '
 time.sleep(0.6)
-print '\033[1;32m 8 Reports Send Successfully '
+print '\033[1;32m[+] 8 Reports Send Successfully '
 time.sleep(0.1)
-print '\033[1;32m 9 Reports Send Successfully '
+print '\033[1;32m[+] 9 Reports Send Successfully '
 time.sleep(0.1)
-print '\033[1;32m10 Reports Send Successfully '
+print '\033[1;32m[+] 10 Reports Send Successfully '
 time.sleep(0.9)
-print '\033[1;32m11 Reports Send Successfully '
+print '\033[1;32m[+] 11 Reports Send Successfully '
 time.sleep(0.2)
-print '\033[1;32m12 Reports Send Successfully '
+print '\033[1;32m[+] 12 Reports Send Successfully '
 time.sleep(0.1)
-print '\033[1;32m13 Reports Send Successfully '
+print '\033[1;32m[+] 13 Reports Send Successfully '
 time.sleep(0.1)
-print '\033[1;32m14 Reports Send Successfully '
+print '\033[1;32m[+] 14 Reports Send Successfully '
 time.sleep(0.5)
-print '\033[1;32m15 Reports Send Successfully '
+print '\033[1;32m[+] 15 Reports Send Successfully '
 time.sleep(0.1)
-print '\033[1;32m16 Reports Send Successfully '
+print '\033[1;32m[+] 16 Reports Send Successfully '
 time.sleep(0.5)
-print '\033[1;32m17 Reports Send Successfully '
+print '\033[1;32m[+] 17 Reports Send Successfully '
 time.sleep(0.5)
-print '\033[1;32m18 Reports Send Successfully '
+print '\033[1;32m[+] 18 Reports Send Successfully '
 time.sleep(0.5)
-print '\033[1;32m19 Reports Send Successfully '
+print '\033[1;32m[+]19 Reports Send Successfully '
 time.sleep(0.5)
-print '\033[1;32m20 Reports Send Successfully '
+print '\033[1;32m[+] 20 Reports Send Successfully '
 time.sleep(0.1)
-print '\033[1;35m 20 Reports Has Been Send Successfully 100 Reports in Progress   '  
-time.sleep(0.5)
-print '\033[1;31m Please Wait '  
-time.sleep(0.10)
-print '\033[1;32m 120 Reports Has Been Send Successfully '
+print '\033[1;35m[+] 20 Reports Has Been Send Successfully 100 Reports in Progress   '  
+time.sleep(0.9)
+print '\033[1;100[+] Please Wait '  
+time.sleep(1)
+print '\033[1;32m[+] 120 Reports Has Been Send Successfully '
 exit()
