@@ -39,53 +39,53 @@ print """
 """    
 time.sleep(0.5)
 user = raw_input('[+] ENTER USER ID FOR UNLIMITED REPORTS 😈💉 : ')
-time.sleep(0.5)
+time.sleep(1)
 print '\033[1;32m[+] 1 Report  Send Successfully '
-time.sleep(0.6)
+time.sleep(1)
 print '\033[1;32m[+] 2 Reports Send Successfully '
-time.sleep(0.7)
+time.sleep(0.9)
 print '\033[1;32m[+] 3 Reports Send Successfully '
 time.sleep(0.8)
 print '\033[1;32m[+] 4 Reports Send Successfully '
-time.sleep(0.5)
+time.sleep(1)
 print '\033[1;32m[+] 5 Reports Send Successfully '
-time.sleep(0.2)
+time.sleep(0.5)
 print '\033[1;32m[+] 6 Reports Send Successfully '
-time.sleep(0.1)
+time.sleep(1)
 print '\033[1;32m[+] 7 Reports Send Successfully '
-time.sleep(0.6)
+time.sleep(0.3)
 print '\033[1;32m[+] 8 Reports Send Successfully '
-time.sleep(0.1)
+time.sleep(1)
 print '\033[1;32m[+] 9 Reports Send Successfully '
-time.sleep(0.1)
+time.sleep(2)
 print '\033[1;32m[+]10 Reports Send Successfully '
 time.sleep(0.9)
 print '\033[1;32m[+]11 Reports Send Successfully '
 time.sleep(0.2)
 print '\033[1;32m[+]12 Reports Send Successfully '
-time.sleep(0.1)
+time.sleep(1)
 print '\033[1;32m[+]13 Reports Send Successfully '
-time.sleep(0.1)
+time.sleep(1)
 print '\033[1;32m[+]14 Reports Send Successfully '
-time.sleep(0.5)
+time.sleep(1.2)
 print '\033[1;32m[+]15 Reports Send Successfully '
-time.sleep(0.1)
+time.sleep(0.7)
 print '\033[1;32m[+]16 Reports Send Successfully '
-time.sleep(0.5)
+time.sleep(0.2)
 print '\033[1;32m[+]17 Reports Send Successfully '
-time.sleep(0.5)
+time.sleep(1)
 print '\033[1;32m[+]18 Reports Send Successfully '
-time.sleep(0.5)
+time.sleep(0.2)
 print '\033[1;32m[+]19 Reports Send Successfully '
-time.sleep(0.5)
+time.sleep(0.9)
 print '\033[1;32m[+]20 Reports Send Successfully '
 
-time.sleep(0.1)
+time.sleep(3)
 print '\033[1;31m[+]\033[1;41m \033[1;33m20 Reports Has Been Send Successfully 100 Reports in Progress\033[1;0m   '  
 
-time.sleep(0.9)
+time.sleep(4)
 print '\033[1;32m[+]\033[1;31m Please Wait '  
 
-time.sleep(1.5)
-print '\033[1;31m[+]\033[1;41m \033[1;33m120 Reports Has Been Send Successfully \033[1;0m '
+time.sleep(15)
+print '\033[1;31m[+]\033[1;41m \033[1;33m120 Reports Has Been Send Successfully            \033[1;0m '
 exit()
